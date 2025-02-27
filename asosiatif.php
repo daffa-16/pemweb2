@@ -1,0 +1,2 @@
+//array asosiatif array
+$mahasiswa =
